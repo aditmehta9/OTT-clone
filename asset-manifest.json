@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OTT-clone/static/css/main.277e8106.chunk.css",
+    "main.js": "/OTT-clone/static/js/main.7c6a6210.chunk.js",
+    "main.js.map": "/OTT-clone/static/js/main.7c6a6210.chunk.js.map",
+    "runtime-main.js": "/OTT-clone/static/js/runtime-main.fc07f64d.js",
+    "runtime-main.js.map": "/OTT-clone/static/js/runtime-main.fc07f64d.js.map",
+    "static/js/2.cdcc68de.chunk.js": "/OTT-clone/static/js/2.cdcc68de.chunk.js",
+    "static/js/2.cdcc68de.chunk.js.map": "/OTT-clone/static/js/2.cdcc68de.chunk.js.map",
+    "static/js/3.e44018a6.chunk.js": "/OTT-clone/static/js/3.e44018a6.chunk.js",
+    "static/js/3.e44018a6.chunk.js.map": "/OTT-clone/static/js/3.e44018a6.chunk.js.map",
+    "index.html": "/OTT-clone/index.html",
+    "static/css/main.277e8106.chunk.css.map": "/OTT-clone/static/css/main.277e8106.chunk.css.map",
+    "static/js/2.cdcc68de.chunk.js.LICENSE.txt": "/OTT-clone/static/js/2.cdcc68de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc07f64d.js",
+    "static/js/2.cdcc68de.chunk.js",
+    "static/css/main.277e8106.chunk.css",
+    "static/js/main.7c6a6210.chunk.js"
+  ]
+}
